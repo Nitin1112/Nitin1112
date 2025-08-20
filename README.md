@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nitin1112&theme=vision-friendly-dark&no-frame=true&no-bg=true&margin-w=4)
 
-# “Intelligence is the ability to avoid doing work, yet getting the work done.”
+### “Intelligence is the ability to avoid doing work, yet getting the work done.”
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
